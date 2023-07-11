@@ -1,0 +1,14 @@
+name: HubSpawn
+version: "1.0"
+api: ["1.0.0"]
+author: RoidiRZMC
+description: Always be in the hub when joining the server
+main: com.nukkit.hubspawn.HubSpawn
+commands:
+  setspawnhub:
+    description: Establece el punto de spawn del hub
+    usage: /setspawnhub
+    permission: hubspawn.admin
+  hub:
+    description: Teletransporta al jugador al hub de spawn
+    usage: /hub

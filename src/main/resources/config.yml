@@ -1,0 +1,14 @@
+#HUBSPAN SETTINGS - RoidiRZMC
+hubSpawn:
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  level: world
+
+teleportMessage:
+  enabled: true #Message when you get back to lobby - Mensaje cuando regresas al lobby
+  message: "&e¡Te has teletransportado al hub de spawn!"
+
+hubspawn:
+  clearInventory: false #Clear your inventory - Eliminar el inventario
+
